@@ -1,6 +1,8 @@
 # ESP32 LILYGO® T-Display-S3 Bitcoin Ticker
 
 This project is a portable Bitcoin Ticker built using the **LILYGO® T-Display-S3** ESP32-S3 development board. It retrieves the latest Bitcoin (BTC) prices and displays them on the built-in TFT screen, making it a compact, convenient way to monitor BTC prices in real-time.
+See video here
+https://x.com/giorgioleggio/status/1850931821674123428?s=19 
 
 ## Table of Contents
 - [Overview](#overview)
